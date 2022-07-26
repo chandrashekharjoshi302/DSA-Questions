@@ -1,4 +1,4 @@
-/Bonus Ques
+//Bonus Ques
 
 let arr=["Bahubali", "Pushpa", "KGF", "Major"];
 
