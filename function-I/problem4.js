@@ -1,5 +1,5 @@
 function name(){
-    let name="Bruce Wayne";
+    let name="Bruce Waynee";
     console.log(name);
   }
   
