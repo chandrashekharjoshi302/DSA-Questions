@@ -1,0 +1,1 @@
+// Problem 2 : Given an array and a value sum x, find how many pairs exist in an array which can give the sum x.
