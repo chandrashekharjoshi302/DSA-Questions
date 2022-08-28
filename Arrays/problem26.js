@@ -1,3 +1,4 @@
+
 // Find the count of those elements which are greater than its neighbour elements.
 //   Note : Do not include first and last element
 
