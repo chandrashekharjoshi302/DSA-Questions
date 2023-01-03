@@ -16,7 +16,6 @@ What's Inside
 🌲 Non-Linear Data Structures
 
 
-
 Topic Covered
 The repo contains some of the most important questions from the following topics :
 
