@@ -17,5 +17,24 @@ What's Inside
 
 
 
+Topic Covered
+The repo contains some of the most important questions from the following topics :
+
+Implementation
+One-Dimensional Array
+Two-Dimensional Array
+Two Pointer
+Sliding Window
+Sorting Algorithms
+Strings
+Stacks
+Queues
+Recursion
+Backtracking
+Greedy Algorithms
+Binary Search
+Dynamic Programming
+
+
 
 
