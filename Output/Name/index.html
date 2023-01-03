@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Count Weightage of vowel and consonant in Your Favorite Name</title>
+    <script>
+        function FindCount(){
+  let str = document.getElementById("FavoriateNameID").value
+
+  let vcount = 0
+    let ccount = 0
+    for(let i=0;i<str.length;i++){
+      if(str[i]=="a"||str[i]=="i"||str[i]=="o"||str[i]=="u" || str[i]=="e"||str[i]=="A"||str[i]=="I"||str[i]=="O"||str[i]=="U" || str[i]=="E"){
+        vcount++
+    }
+    else
+    {
+      ccount++
+    }
+}
+    document.body.innerHTML= "<h1>In Your Favorite Name Count of vowel is "+ vcount +"and Count of consonant is "+ccount+"</h1>"
+    }
+        
+    </script>
+</head>
+<body>
+    <input type="text" placeholder="Favorite Name" id="FavoriateNameID">
+    <button onclick="FindCount()">Check here</button>
+    
+</body>
+</html>
